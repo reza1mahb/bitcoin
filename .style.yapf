@@ -3,8 +3,7 @@
 align_closing_bracket_with_visual_indent=True
 
 # Allow dictionary keys to exist on multiple lines. For example:
-#
-#   x = {
+
 #       ('this is the first element of a tuple',
 #        'this is the second element of a tuple'):
 #            value,
